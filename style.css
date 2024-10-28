@@ -1,0 +1,14 @@
+.item{
+    width:100px;
+    height:100px;
+    border:1px solid red;
+    background-color: aqua;
+    color: white;
+    margin-left:250px;
+    margin: top 100px;
+}
+
+
+body{
+    background-color:black ;
+}
